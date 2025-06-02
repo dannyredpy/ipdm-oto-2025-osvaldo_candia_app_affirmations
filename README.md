@@ -1,26 +1,19 @@
-Affirmations App - Solution Code
-================================
+# Aplicación "Lista desplegable y cambio de icono de de aplicacion - affirmation.app"
 
-Solution code for the Android Basics with Compose: Affirmations app.
+## Descripción
 
-
-Introduction
-------------
-The Affirmations app contains a scrollable list of 10 cards.
-
-
-Pre-requisites
+Este proyecto contiene:
+- La creacion de la app de Affirmations, que mostrará una lista de mensajes varios y además del cambio de icono de la app.
+  
+## Pre-requisitos
 --------------
-* Familiarity with Lists in Kotlin
-* Experience building layouts with Jetpack Compose
-* Experience running apps on a device or emulator
+* Experiencia ejecutando aplicaciones en el equipo o emulador
 
+## Capturas de pantalla
 
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025-osvaldo_candia_app_affirmations/blob/main/imagen01.jpeg)
 
-All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
+## Cómo ejecutar
+1. Abrir el proyecto Affirmation en Android Studio.
+2. Compilar y ejecutar en un emulador con API 31.
+3. Veras una pantalla con lista desplegable con varios mensajes.
